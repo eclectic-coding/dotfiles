@@ -99,7 +99,7 @@ set colorcolumn=120
 highlight ColorColumn guibg=#202020
 
 " Add 'Source Code Pro' font via:
-" brew tap caskroom/fonts && brew cask install font-source-code-pro
+" brew Tap homebrew/cask-fonts && brew install --cask font-source-code-pro
 set guifont=Source\ Code\ Pro:h13
 " https://github.com/shannpersand/comic-shanns
 " set guifont=Comic\ Shanns:h13
